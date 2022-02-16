@@ -7,7 +7,7 @@ rem color 1F
 ::--------------------------------------------------------------
 set "nut=ztools\squirrel.py"
 ::python command
-set "pycommand=py -3"
+set "pycommand=python"
 set "pycommandw=pyw -3"
 ::--------------------------------------------------------------
 ::INTERFACE OPTIONS

@@ -26,7 +26,7 @@ set "infobat=ztools\info.bat"
 ::OPTION 3: SQUIRREL OPTIONS
 ::--------------------------------------------------------------
 ::python command
-set "pycommand=py -3"
+set "pycommand=python"
 ::Buffer for the copy functions. 
 ::Change the number for the number of bytes that works best for you
 ::32768=32kB ; 65536=64kB
